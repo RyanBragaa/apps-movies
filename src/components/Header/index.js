@@ -3,6 +3,7 @@ import styles from "./Header.module.css";
 function Header() {
   return (
       <header className={styles.header}>
+        
         <span>BGFlix</span>
         <nav>
             <a href="#">Home</a> 
